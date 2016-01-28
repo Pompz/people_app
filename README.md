@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> cc0e959a298b5be273adea1e6d56c385c273f4c9
 # People app
 
 ## Getting Started
@@ -26,3 +30,9 @@ programming in style.
 * [Protocol](http://github.com/thoughtbot/guides/blob/master/protocol)
 * [Best Practices](http://github.com/thoughtbot/guides/blob/master/best-practices)
 * [Style](http://github.com/thoughtbot/guides/blob/master/style)
+<<<<<<< HEAD
+=======
+=======
+# people_app
+>>>>>>> 2f63db214811932413bcd1d3ba5b673906ac70ab
+>>>>>>> cc0e959a298b5be273adea1e6d56c385c273f4c9
