@@ -1,8 +1,10 @@
 development: &default
-  adapter: sqlite3
+  adapter: postgresql
   database: people_app_development
   encoding: utf8
+  username: postgres
   host: localhost
+  password: pjdp1408
   min_messages: warning
   pool: <%= Integer(ENV.fetch("DB_POOL", 5)) %>
   reaping_frequency: <%= Integer(ENV.fetch("DB_REAPING_FREQUENCY", 10)) %>

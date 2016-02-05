@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "2.3.0"
 
-gem 'sqlite3', '~> 1.3', '>= 1.3.11'
+gem 'pg', '~> 0.18.4'
 gem "autoprefixer-rails"
 gem "bourbon", "~> 4.2.0"
 gem "coffee-rails", "~> 4.1.0"
@@ -13,7 +13,6 @@ gem "jquery-rails"
 gem "neat", "~> 1.7.0"
 gem "newrelic_rpm", ">= 3.9.8"
 gem "normalize-rails", "~> 3.0.0"
-gem "pg"
 gem "puma"
 gem "rack-canonical-host"
 gem "rails", "~> 4.2.0"
